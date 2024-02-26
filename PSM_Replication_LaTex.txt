@@ -1,0 +1,24 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+
+\title{“THE EFFECT OF MINIMUM WAGES ON LOW-WAGE JOBS: EVIDENCE FROM THE UNITED STATES USING A BUNCHING ESTIMATOR”}
+\author{Doruk Cengiz, Arindrajit Dube, Attila Lindner, and Ben Zipperer}
+\date{February 2024}
+
+\begin{document}
+
+\maketitle
+
+\section{Study} The study that was chosen to replicate was “THE EFFECT OF MINIMUM WAGES ON LOW-WAGE JOBS: EVIDENCE FROM THE UNITED STATES USING A BUNCHING ESTIMATOR” by Doruk Cengiz, Arindrajit Dube, Attila Lindner, and Ben Zipperer
+
+\section{Objective} The objective of this study was to examine and analyze the effects of minimum wage increases on the amount of low-wage jobs (excess jobs at or above minimum wage).
+
+\section{Methodology and Instrument} The study uses propensity score matching and a bunching estimator to estimate the effect of minimum wage increase on the frequency distribution of hourly wages for 138 state-level minimum wage changes.
+
+\section{Reason} This study was done to potentially allow policymakers to better understand and therefore control the effects of future minimum wage changes in order to prevent potential low-wage job losses.
+
+\section{Data} The study uses data on state-level annual wage changes and juxtaposes said data with data on the amount of excess jobs in the economy.
+
+\section{Results} Overall number of low-wage jobs remained the same with minimum wage increases, but wage spillovers did occur near the bottom of the wage distribution, causing a decrease in average earnings.
+
+\end{document}
